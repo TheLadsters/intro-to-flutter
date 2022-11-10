@@ -1,6 +1,7 @@
 # intro_to_flutter
 
-introduction to flutter
+introduction to flutter Assignment.
+Group Members: Jerald Blaise P. Magsipoc & Jameson Adriel Perez
 
 ## Getting Started
 
